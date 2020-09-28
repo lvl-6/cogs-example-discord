@@ -1,4 +1,4 @@
-##Cogs-example
+## Cogs-example
 
 I made this to practice using Discord.py's "Cogs" feature, so that I can make my bots modular and good.
 
